@@ -1,4 +1,4 @@
-# SDS-of-ShopFlow
+# SDS-of-ShopFlow-
 This repository contains the Software Design Specification (SDS) for ShopFlow, an object-oriented online shopping application. ShopFlow provides a modular structure for managing products, customers, and administrators with a focus on a seamless shopping experience through a Python-based GUI.
 <br>
 Features<br>
